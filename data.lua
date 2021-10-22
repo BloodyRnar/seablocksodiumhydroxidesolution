@@ -3,7 +3,7 @@ data:extend({
 	{
     type = "fluid",
     name = "water-sodium-hydroxide-solution",
-    icon = "__sodiumhydroxidesolution-redux__/graphics/icons/water-sodium-hydroxide-solution.png",
+    icon = "__seablocksodiumhydroxidesolution__/graphics/icons/water-sodium-hydroxide-solution.png",
 	icon_size = 32,
 	default_temperature = 100,
     heat_capacity = "0.2KJ",
@@ -17,7 +17,7 @@ data:extend({
 	{
     type = "technology",
     name = "sodium-hydroxide-solution",
-    icon = "__sodiumhydroxidesolution-redux__/graphics/technology/sodiumhydroxidesolution-tech.png",
+    icon = "__seablocksodiumhydroxidesolution__/graphics/technology/sodiumhydroxidesolution-tech.png",
 	icon_size = 128,
 	prerequisites =
     {
@@ -57,7 +57,7 @@ data:extend({
     {
 		{type="fluid", name="water-sodium-hydroxide-solution", amount=50},
     },
-    icon = "__sodiumhydroxidesolution-redux__/graphics/icons/water-sodium-hydroxide-solution.png",
+    icon = "__seablocksodiumhydroxidesolution__/graphics/icons/water-sodium-hydroxide-solution.png",
 	icon_size = 32,
 	},
 	
@@ -78,7 +78,7 @@ data:extend({
 	  {type="item", name="water-void", amount=1, probability=0},
 	},
 	subgroup = "angels-void",
-	icon = "__sodiumhydroxidesolution-redux__/graphics/icons/water-sodium-hydroxide-solution.png",
+	icon = "__seablocksodiumhydroxidesolution__/graphics/icons/water-sodium-hydroxide-solution.png",
 	icon_size = 32,
 	order = "angels-water-void-water-sodium-hydroxide-solution",
 	},
