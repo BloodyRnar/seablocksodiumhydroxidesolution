@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 10.08.2021
+  Changes:
+    - Added Technology - Sodium Hydroxide Solution - Red/Green Science Level
+    - Added Recipe - Sodium Hydroxide Solution (Purified Water + Sodium Hydroxide in Chemical Plant)
