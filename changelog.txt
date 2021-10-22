@@ -1,11 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 10.21.2021
+  Changes:
+    - Removed added fluid, fluid recipe and void recipe
+    - Technology now unlocks Angel's Sodium Hydroxide Solution recipe
+    - Tested with Angels Petrochem 0.9.20 (Updated dependencies)
+---------------------------------------------------------------------------------------------------
 Version: 1.1.2
-Date: 10.08.2021
+Date: 10.21.2021
   Changes:
     - Added thumbnail.png
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.1
-Date: 10.08.2021
+Date: 10.21.2021
   Changes:
     - Added Technology - Sodium Hydroxide Solution - Red/Green Science Level
     - Added Recipe - Sodium Hydroxide Solution (Purified Water + Sodium Hydroxide in Chemical Plant)
