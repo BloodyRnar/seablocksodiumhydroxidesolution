@@ -21,7 +21,7 @@ data:extend({
 	icon_size = 128,
 	prerequisites =
     {
-	"angels-advanced-chemistry-2",
+	"angels-fluid-control",
     },
     effects =
     {
@@ -34,11 +34,10 @@ data:extend({
     {
       count = 50,
       ingredients = {
-	  {"science-pack-1", 1},
-	  {"science-pack-2", 1},
-	  {"science-pack-3", 1},
-	  },
-      time = 20
+		{type = "item", name = "automation-science-pack", amount = 1},
+		{type = "item", name = "logistic-science-pack", amount = 1},
+	},
+      time = 10
     },
     order = "c-a"
     },
