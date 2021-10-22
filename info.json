@@ -7,5 +7,5 @@
     "homepage": "",
     "factorio_version": "1.1",
     "dependencies": ["base >= 1.1.0", "angelspetrochem >= 0.6.1"],
-    "description": "Solve your Seablock Sodium Hydroxide Problem Today! Brand New Sodium Hydroxide Solution Technology can be yours! Today! Allows Sodium Hydroxide to be processed into a fluid. The fluid can then be voided/destroyed using a Clarifier. Forked from sodiumhydroxidesolutionredux by jmurrayufo. Thank you!"
+    "description": "Solve your Seablock Sodium Hydroxide Problem Today! Brand New Sodium Hydroxide Solution Technology can be yours! Allows Sodium Hydroxide to be processed into a fluid. The fluid can then be voided/destroyed using a Clarifier. Forked from sodiumhydroxidesolutionredux by jmurrayufo. Thank you!"
 }
